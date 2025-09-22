@@ -1,3 +1,2 @@
-This is a sample README.md file. Please edit according to the instructions.
-
-Thanks :D
+Names of all our group members and their UCID
+Short description of Assignment 1
